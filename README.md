@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Software Portfolio: 
  The following GitHub will only have **some** of the work I have done. I have included programs written in Python, Java, R, and Scala. <br />  At the top tab, please choose 'repositories' and you will find some of my software programs  <br /> 
-<br />- 💬 **If you are a recruiter and would like to see more of the software I have written, then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
+<br />- 💬 **If you are a recruiter and would like to see more of the software I have written, <br />📫 then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
 <br /> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The portfolio will include projects from: <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Intro to Computer Science I <br />
