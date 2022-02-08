@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👾&nbsp; Software Portfolio: 
- The following GitHub will only have **some** of the work I have done. I have included programs written in Python, Java, R, and Scala. <br />  At the top tab, please choose 'repositories' and you will find some of my software programs  <br />  <br />  
+ The following GitHub will only have **some** of the work I have done. I have included programs written in Python, Java, R, and Scala. <br />    &nbsp; At the top tab, please choose 'repositories' and you will find some of my software programs  <br />  <br />  
   &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; The current work that I am on is: <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Compiler Design  <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Databases <br />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Web Development  <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Web Development 
    
 <br />💬 **If you are a recruiter and would like to see more of the software I have written, <br />  &nbsp;📫 then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
 <br />  
