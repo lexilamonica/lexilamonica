@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Software Portfolio: 
  The following GitHub will only have **some** of the work I have done. I have included programs written in Python, Java, R, and Scala. <br />  At the top tab, please choose 'repositories' and you will find some of my software programs  <br /> 
-<br /> **If you are a recruiter and would like to see more of the software I have written, then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
+<br />- 💬 **If you are a recruiter and would like to see more of the software I have written, then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
 <br /> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The portfolio will include projects from: <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Intro to Computer Science I <br />
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Data Analysis and Regression <br /> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Advanced Data Analysis (included some of this work on GitHub) <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Database Systems <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Software Projects <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Distributed Systems <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Database Programming <br />
   
   &nbsp;&nbsp;&nbsp;&nbsp; The current work that I am on is: <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Software Projects <br />
