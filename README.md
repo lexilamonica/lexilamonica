@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Databases <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Web Development 
    
-<br />💬 **If you are a recruiter and would like to see more of the software I have written, <br />  &nbsp;📫 then please reach out to me at Alexislam.Portfolio@gmail.com (or, the email on my resume) and I will send over a more in-depth portfolio**. <br /> 
+<br />💬 **If you are a recruiter and would like to see more of the software I have written, <br />  &nbsp;📫 then please reach out to me at lexilamonica1@gmail.com and I will send over a more in-depth portfolio**. <br /> 
 <br />  
    &nbsp;&nbsp;&nbsp;&nbsp;🗂&nbsp; The portfolio may include projects from: <br />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Intro to Computer Science I <br />
