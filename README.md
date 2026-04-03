@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👾&nbsp; Software Portfolio: 
-<!-- The following GitHub will have of the work I have done. I have included programs written in Python, Java, R, and Scala. <br /> At the top tab of my GitHub profile, please choose &nbsp;'repositories' and you will find some of my software programs  <br /> -->
+<!--The GitHub repository below contains most of my work, including programs I have written in Python, Java, R, and Scala <br /> At the top tab of my GitHub profile, please choose &nbsp;'repositories' and you will find some of my software programs  <br /> -->
 <br />  &nbsp;&nbsp;&nbsp;👩‍💻&nbsp; The current work that I am on is: <br />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ I have been recently into cooking more so I am building a recipe organizer <br />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ I’m focused on my corporate job right now, which is why I may not have been active recently. <br />
    
    &nbsp;&nbsp;&nbsp;&nbsp;🗂&nbsp; My repositories include projects from: <br />
  <!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➖ Computer Science I <br />
